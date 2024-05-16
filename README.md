@@ -12,7 +12,7 @@ En el menú de la aplicación podemos observar una serie de funciones que son:
   1 Archivo:  
     -NUevo: que limpia el tablero y crea un nuevo tablero en blanco dejandote seleccionar de cuantas columnas y filas deseas el terreno.
     ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/937e528d-1942-4ace-aa01-d6c82dc9f1f7)      
-    -Guardar que lo que hace es guardar el laberinto en la ubicación que desees (pero no sin antes seleccionar un audio en la opción de audio de options)
+    -Guardar que lo que hace es guardar el laberinto en la ubicación que desees (pero no sin antes seleccionar un audio en la opción de audio de options)  
     ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/643ad151-6359-463e-836d-719ff74dcbe0)      
     Lo guardamos con extensión XML o JSON  
     ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/c4cab635-83b3-4460-be48-16e807c3955a)    
