@@ -9,21 +9,16 @@ Nos ofrece una variedad de bloques para generar los laberintos con plena liberta
 En el menú de la aplicación podemos observar una serie de funciones que son:
   1-Archivo:
     a-NUevo: que limpia el tablero y crea un nuevo tablero en blanco dejandote seleccionar de cuantas columnas y filas deseas el terreno.
-    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/937e528d-1942-4ace-aa01-d6c82dc9f1f7)
-    
+    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/937e528d-1942-4ace-aa01-d6c82dc9f1f7)    
     b-Guardar que lo que hace es guardar el laberinto en la ubicación que desees (pero no sin antes seleccionar un audio en la opción de audio de options)
-    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/643ad151-6359-463e-836d-719ff74dcbe0)
-    
+    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/643ad151-6359-463e-836d-719ff74dcbe0)    
     Lo guardamos con extensión XML o JSON
-    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/c4cab635-83b3-4460-be48-16e807c3955a)
-    
+    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/c4cab635-83b3-4460-be48-16e807c3955a)    
     c-Abrir: nos sirve para abrir laberintos que ya tengamos guardados.
-    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/9e7c7649-586e-4537-a995-266f5d05d484)
-    
+    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/9e7c7649-586e-4537-a995-266f5d05d484)    
     d-Salir: Cierra el programa
   2-Options
     a-Sound: Permite seleccionar un archivo de audio para que suene mientras estás en el laberinto
-    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/f40e6ec0-792c-4b3b-80c9-a84c94764f30)
-    
+    ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/f40e6ec0-792c-4b3b-80c9-a84c94764f30)    
     b-Time: sirve para asignar un tiempo al laberinto pero no funciona del todo aún
 
