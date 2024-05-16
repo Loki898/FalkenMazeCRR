@@ -2,7 +2,7 @@
 
 ## Cristian Rodríguez Ruiz
 
-Esta aplicación es un sitema para poder generar mapas de laberintos con unas determinadas herramientas como la selección de los bloques que desees utilizar así como el tablero donde colocarlos
+Esta aplicación es un sitema para poder generar mapas de laberintos con unas determinadas herramientas como la selección de los bloques que desees utilizar así como el tablero donde colocarlos  
 ![imagen](https://github.com/Loki898/FalkenMazeCRR/assets/158314298/5f1e9461-cf70-4dfe-8c9d-7da5dfec2b43)
 
 Nos ofrece una variedad de bloques para generar los laberintos con plena libertad de diseño:
